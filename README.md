@@ -12,11 +12,7 @@ Atualmente, estou aprimorando minhas habilidades e desenvolvendo projetos para e
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/paulolimati/)
 
-<div style="width: 200px;">
-<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
-</a>
-</div>
+
 <!--
 **lima0234/lima0234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
