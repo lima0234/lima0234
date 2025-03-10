@@ -1,10 +1,12 @@
-Olá, eu sou o Paulo Silva! 👋
-📌 Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie
-💻 Interessado em Desenvolvimento de Software, especialmente Frontend
-🔎 Buscando oportunidades como estagiário em TI
-🚀 Tenho experiência com Python, HTML e C
+# Olá, eu sou o Paulo Silva! 👋
 
-Atualmente, estou aprimorando minhas habilidades e desenvolvendo projetos para explorar diferentes áreas da tecnologia.
+📌 Estudante de **Ciência da Computação** na Universidade Presbiteriana Mackenzie  
+💻 Interessado em **Desenvolvimento de Software**, especialmente **Frontend**  
+🔎 Buscando oportunidades como **estagiário em TI**  
+🚀 Tenho experiência com **Python, HTML e C**  
+
+Atualmente, estou aprimorando minhas habilidades e desenvolvendo projetos para explorar diferentes áreas da tecnologia.  
+
 
 <a href="mailto:contatopaulohslima@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
